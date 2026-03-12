@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Calculador de salário de vendedor comissionado");
+Console.Write("Digite o salário fixo do vendedor: ");
+decimal salarioFixo = Convert.ToDecimal(Console.ReadLine());
+Console.Write("Digite o total de vendas do vendedor: ");
+decimal totalVendas = Convert.ToDecimal(Console.ReadLine());
+Console.Write("Digite a porcentagem de comissão: ");
+decimal porcentagemComissao = Convert.ToDecimal(Console.ReadLine());
+decimal comissao = totalVendas * (porcentagemComissao / 100);
+decimal salarioTotal = salarioFixo + comissao;
+Console.WriteLine($"O salário total do vendedor é: {salarioTotal}");
