@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Calculadora de ganhos por pão da padaria HotPão");
+decimal precopao = 0.12m; decimal precobroa = 1.50m; decimal vendasGerais = 0m; decimal poupanca = 0.1m; decimal unPaes; decimal unBroas;
+Console.WriteLine("Digite o número de Pães vendidos no dia: ");
+unPaes = Convert.ToDecimal(Console.ReadLine());
+Console.WriteLine("Digite o número de Broas vendidas no dia: ");
+unBroas = Convert.ToDecimal(Console.ReadLine());
+vendasGerais = (unPaes * precopao) + (unBroas * precobroa);
+decimal resultado = vendasGerais * poupanca;
+Console.WriteLine("O faturamento das vendas é de : " + vendasGerais.ToString("C"));
+Console.WriteLine();
+Console.WriteLine("O valor sugerido para ser guardado na poupança é: " + resultado.ToString("C"));
