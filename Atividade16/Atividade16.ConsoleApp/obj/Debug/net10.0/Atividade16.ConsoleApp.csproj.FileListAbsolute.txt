@@ -1,0 +1,15 @@
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.AssemblyInfo.cs
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.sourcelink.json
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\bin\Debug\net10.0\Atividade16.ConsoleApp.exe
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\bin\Debug\net10.0\Atividade16.ConsoleApp.deps.json
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\bin\Debug\net10.0\Atividade16.ConsoleApp.runtimeconfig.json
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\bin\Debug\net10.0\Atividade16.ConsoleApp.dll
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\bin\Debug\net10.0\Atividade16.ConsoleApp.pdb
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.dll
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\refint\Atividade16.ConsoleApp.dll
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.pdb
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\Atividade16.ConsoleApp.genruntimeconfig.cache
+C:\Users\drelu\OneDrive\Documentos\AdP\Atividades Iniciais\Atividade16\Atividade16.ConsoleApp\obj\Debug\net10.0\ref\Atividade16.ConsoleApp.dll
