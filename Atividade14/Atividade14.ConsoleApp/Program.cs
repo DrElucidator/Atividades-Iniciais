@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Ordenador de números decrescentes");
+Console.WriteLine("Digite o primeiro valor: ");
+int valor1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite o segundo valor: ");
+int valor2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite o terceiro valor: ");
+int valor3 = Convert.ToInt32(Console.ReadLine());
+int[] valores = {valor1, valor2, valor3};
+Array.Sort(valores);
+Array.Reverse(valores);
+Console.WriteLine(string.Join(", ", valores));
