@@ -57,7 +57,4 @@ Para qualquer atividade:
 
 Cada pasta contém:
 - `Program.cs` com o código da atividade.  
-- `README.md` explicativo e detalhado.  
-
-Este índice serve como guia rápido para navegar entre as atividades.
-```
+- `README.md` explicativo e detalhado. 
